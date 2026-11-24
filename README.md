@@ -67,6 +67,6 @@ I rebuild how companies of 50 to 500 people work — AI agents where they pay of
 Got a process that eats your team's week? [Message me on LinkedIn](https://de.linkedin.com/in/lucasff) and describe it — I'll reply with the questions I'd ask and an honest take on whether it's worth building.
 
 <p align="right">
-  <sub>The tree above re-grows every night from my commit history.</sub>
+  <sub>The tree above re-grows every week from my commit history.</sub>
   <a href="https://github.com/egorthinks/git-bonsai"><img src="https://img.shields.io/badge/🌳_grown_with-git--bonsai-2ea44f?style=flat-square" alt="grown with git-bonsai" /></a>
 </p>

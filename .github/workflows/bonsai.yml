@@ -2,7 +2,7 @@ name: bonsai
 
 on:
   schedule:
-    - cron: '0 3 * * *' # re-grow daily
+    - cron: '0 3 * * 1' # re-grow weekly (Mondays 03:00 UTC)
   workflow_dispatch:
 
 permissions:
